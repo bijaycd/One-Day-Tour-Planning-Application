@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+neo4j
+transformers
+pandas
+numpy
+networkx
+geopy
+requests
+python-dotenv
+pytest
+pytest-asyncio
+matplotlib
+jupyter
