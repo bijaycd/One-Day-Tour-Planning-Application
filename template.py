@@ -9,6 +9,7 @@ project_name = "tourplanner"
 list_of_files = [
     '.github/workflows/.gitkeep',
     f'src/{project_name}/__init__.py',
+    f'src/{project_name}/main.py',
     f'src/{project_name}/agents/__init__.py',
     f'src/{project_name}/agents/user_interaction_agent.py',
     f'src/{project_name}/agents/itinerary_generation_agent.py',
@@ -43,16 +44,9 @@ list_of_files = [
     f'src/{project_name}/utils/helpers.py',
     f'src/{project_name}/utils/constants.py',
     f'src/{project_name}/utils/logger.py',
-    'config/config.yaml',
-    'params.yaml',
-    'schema.yaml',
-    'main.py',
     'app.py',
-    'Dockerfile',
     'requirements.txt',
-    'setup.py',
     'research/trials.ipynb',
-    'templates/index.html',
 ]
 
 
