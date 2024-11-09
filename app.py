@@ -1,5 +1,3 @@
-# src/tourplanner/app.py
-
 import streamlit as st
 from src.tourplanner.frontend.chat_interface import main as chat_main
 from src.tourplanner.frontend.itinerary_display import main as itinerary_main
